@@ -3,4 +3,6 @@
 # for this we need following stuff :
 """
 1. python installed on your PC
+2. IDE for python
+
 """
